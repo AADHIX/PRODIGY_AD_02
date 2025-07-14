@@ -1,4 +1,4 @@
-# Prodigy Flutter To‑Do App
+#  To‑Do App in Flutter with Hive Storage 
 
 **A clean, intuitive Flutter-powered to‑do list app for efficient task management**
 
@@ -26,9 +26,8 @@ Built as part of the Prodigy Infotech internship curriculum, this application sh
 ## 📱 Screenshots
 
 <!-- Replace with real screenshots once available -->
-| Main Task List | Add / Edit Task |
-|----------------|------------------|
-| ![Task List](screenshots/task_list.png) | ![Add Task](screenshots/add_edit_task.png) |
+![todo1](https://github.com/user-attachments/assets/d575e58e-04b6-40bf-aa94-fe63098339f7)
+
 
 ---
 
@@ -80,7 +79,7 @@ lib/
 ---
 
 ##🏗️ How It Works
-On startup, the app initializes a local SQLite database.
+On startup, the app initializes a local database.
 
 Tasks are fetched and displayed in the list.
 
@@ -110,10 +109,11 @@ Submit a pull request with detailed description
 This project is distributed under the MIT License. See LICENSE for details.
 
 ##📬 Contact
-###Have questions or suggestions? Feel free to reach out via:
+###Have questions or suggestions? Feel free to reach out via: 
+###Email – aadhiadarsh192001@gmail.com
 
 ###GitHub Issues – report bugs or request enhancements
 
-###Email – your.email@example.com
+
 
 ###Happy coding! 😊
