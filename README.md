@@ -6,7 +6,7 @@
 
 ## 🚀 Description
 
-The ** To‑Do App** is a cross‑platform mobile application built with Flutter. It empowers users to effortlessly manage tasks—adding, editing, deleting, and marking them complete—with a sleek, user‑friendly interface and local data persistence.
+The **To‑Do App** is a cross‑platform mobile application built with Flutter. It empowers users to effortlessly manage tasks—adding, editing, deleting, and marking them complete—with a sleek, user‑friendly interface and local data persistence.
 
 Built as part of the Prodigy Infotech internship curriculum, this application showcases proficiency in Flutter development, state management, and local storage.
 
