@@ -1,6 +1,7 @@
 # 📱 TodoMaster - Flutter Todo App with Hive & State Management
 
-![App Banner](screenshots/banner.png) *(Optional promotional image)*
+![App Banner](<img width="2895" height="2306" alt="back" src="https://github.com/user-attachments/assets/fe779972-7b0f-4ab9-b17f-eae7566e4be6" />) 
+
 
 ## 🌟 Overview
 TodoMaster is a high-performance todo application built with Flutter that features:
@@ -8,12 +9,5 @@ TodoMaster is a high-performance todo application built with Flutter that featur
 - **State Management** (Provider/Riverpod/Bloc - choose one)
 - Clean Material 3 design with dark/light theme
 - Offline-first architecture
-
-## 🏗️ Architecture
-```mermaid
-graph TD
-    A[UI Layer] -->|Notifies| B[State Management]
-    B -->|Reads/Writes| C[Hive Database]
-    C -->|Persists| D[Local Device Storage]
 
 
