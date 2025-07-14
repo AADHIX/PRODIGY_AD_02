@@ -6,7 +6,7 @@
 
 ## 🚀 Description
 
-The **Prodigy Flutter To‑Do App** is a cross‑platform mobile application built with Flutter. It empowers users to effortlessly manage tasks—adding, editing, deleting, and marking them complete—with a sleek, user‑friendly interface and local data persistence.
+The ** To‑Do App** is a cross‑platform mobile application built with Flutter. It empowers users to effortlessly manage tasks—adding, editing, deleting, and marking them complete—with a sleek, user‑friendly interface and local data persistence.
 
 Built as part of the Prodigy Infotech internship curriculum, this application showcases proficiency in Flutter development, state management, and local storage.
 
@@ -19,7 +19,7 @@ Built as part of the Prodigy Infotech internship curriculum, this application sh
 - **Update Tasks** – Tap a task to edit its content or due date.  
 - **Delete Tasks** – Swipe or long‑press to remove unwanted tasks.  
 - **Mark as Completed** – Use checkboxes to mark tasks as done—completed tasks are visually distinguished.  
-- **Local Persistence** – All tasks are stored locally using `sqflite` (SQLite for Flutter), ensuring data survives across app restarts.
+- **Local Persistence** – All tasks are stored locally using `sqflite` (Hive for Flutter), ensuring data survives across app restarts.
 
 ---
 
@@ -58,7 +58,8 @@ bash
 Copy
 Edit
 flutter run
-🛠 Architecture & Tech Stack
+
+###🛠 Architecture & Tech Stack
 Flutter & Dart – Core UI and logic implementation.
 
 State Management – Using Provider for reactive data flow.
@@ -102,14 +103,14 @@ Contributions are welcome! Follow these steps:
 
 Fork the repository
 
-Create a new branch (feature/YourFeature)
+Create a new branch 
 
 Make your changes and commit
 
 Submit a pull request with detailed description
 
 ##🧾 License
-This project is distributed under the MIT License. See LICENSE for details.
+This project is made for learning purpose  License. See LICENSE for details.
 
 ##📬 Contact
 ###Have questions or suggestions? Feel free to reach out via: 
