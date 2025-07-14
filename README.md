@@ -1,6 +1,6 @@
-# 📌 My Project Name  
+# 📌 TO-DO APPLICATION 
 
-🔹 **Description**: A short explanation of what your project does.  
+🔹 **Description**:   
 
 ## 🖼️ Screenshots  
 *(You’ll add images later)*  
