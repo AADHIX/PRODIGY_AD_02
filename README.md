@@ -17,20 +17,3 @@ graph TD
     C -->|Persists| D[Local Device Storage]
 
 
-## 📂 Project Structure
-lib/
-├── 📁 data/
-│   ├── models/              # Data models (TodoModel)
-│   ├── repositories/        # Hive operations
-│   └── datasources/         # Local storage adapters
-├── 📁 domain/
-│   ├── entities/            # Business objects
-│   └── repositories/        # Abstract interfaces
-├── 📁 presentation/
-│   ├── screens/             # All UI pages
-│   ├── widgets/             # Reusable components
-│   └── providers/          # State management
-├── 📁 core/
-│   ├── constants/           # App constants
-│   └── utils/               # Helper functions
-└── main.dart               # App entry point
