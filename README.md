@@ -40,7 +40,10 @@ lib/presentation/
 ## 📸 Screenshots
 .
 ## 📦 Dependencies
-```yaml
+###Flutter
+sgsgsgshshsgjhgjhggdscgsdjcjdcashsghg
+sggvxsxxxjzlk;lkwsuygdhjbsjdcbfwjhcgcwjhcbjhcbjhcbhjbsdjc
+jhashhgsdcgckjcskajslaksjlasjdajadabsxcbjhabchjbcjbcbbchhajkhkjakajjknzjkajabhasbkabskj
 
 
 
