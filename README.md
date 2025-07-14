@@ -1,16 +1,6 @@
 Flutter todo app with modern UI and Hive local storage.
 
 
-Files Created:
-
-pubspec.yaml - All dependencies including Provider
-lib/models/todo_model.dart - Data model for todos
-lib/services/todo_service.dart - Hive database operations
-lib/providers/todo_provider.dart - State management with Provider
-lib/widgets/todo_widgets.dart - Reusable UI components
-lib/screens/add_todo_screen.dart - Add/edit todo screen
-lib/screens/home_screen.dart - Main home screen
-lib/main.dart - App entry point
 
 Key Features:
 
