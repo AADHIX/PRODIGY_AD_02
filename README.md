@@ -1,7 +1,7 @@
 Flutter todo app with modern UI and Hive local storage.
 
 
-<img width="2790" height="2200" alt="back" src="https://github.com/user-attachments/assets/3c9e3400-d7b7-4867-a4d8-0788fc82086d" />
+<img width="2000" height="2000" alt="back" src="https://github.com/user-attachments/assets/3c9e3400-d7b7-4867-a4d8-0788fc82086d" />
 
 
 
