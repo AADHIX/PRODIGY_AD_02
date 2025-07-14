@@ -20,8 +20,6 @@
 ✅ Optional due dates with overdue indicators
 
 
-
-
 ✅ Search and filter functionality
 
 ✅ Statistics dashboard
@@ -29,6 +27,10 @@
 ✅ Sorting options
 
 ✅ Persistent data storage
+
+
+
+
 
 
 
