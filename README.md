@@ -14,6 +14,9 @@ Key Features:
 
 ✅ Optional due dates with overdue indicators
 
+<img width="2895" height="2306" alt="back" src="https://github.com/user-attachments/assets/3c9e3400-d7b7-4867-a4d8-0788fc82086d" />
+
+
 ✅ Search and filter functionality
 
 ✅ Statistics dashboard
