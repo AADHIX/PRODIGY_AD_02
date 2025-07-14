@@ -65,6 +65,7 @@ Local Database – sqflite for SQLite operations.
 
 UI Components – Built with Flutter’s Material library for consistency.
 
+---
 ⚙️ Project Structure
 bash
 Copy
@@ -75,7 +76,10 @@ lib/
 ├── providers/          # State management logic
 ├── screens/            # UI screens: List, Add/Edit
 └── db/                 # SQLite helper & DB setup
-🏗️ How It Works
+
+---
+
+##🏗️ How It Works
 On startup, the app initializes a local SQLite database.
 
 Tasks are fetched and displayed in the list.
@@ -84,14 +88,14 @@ User actions (add, edit, delete, toggle) update both the UI and database.
 
 Changes persist across sessions.
 
-🧪 Testing
+##🧪 Testing
 Unit Tests: Verify the Task model, provider logic, and DB helper.
 
 Widget Tests: Ensure UI screens render and respond as expected.
 
 (Add actual test commands if present in your project)
 
-🤝 Contributing
+##🤝 Contributing
 Contributions are welcome! Follow these steps:
 
 Fork the repository
@@ -102,14 +106,14 @@ Make your changes and commit
 
 Submit a pull request with detailed description
 
-🧾 License
+##🧾 License
 This project is distributed under the MIT License. See LICENSE for details.
 
-📬 Contact
-Have questions or suggestions? Feel free to reach out via:
+##📬 Contact
+###Have questions or suggestions? Feel free to reach out via:
 
-GitHub Issues – report bugs or request enhancements
+###GitHub Issues – report bugs or request enhancements
 
-Email – your.email@example.com
+###Email – your.email@example.com
 
-Happy coding! 😊
+###Happy coding! 😊
