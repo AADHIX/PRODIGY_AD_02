@@ -27,6 +27,9 @@ Built as part of the Prodigy Infotech internship curriculum, this application sh
 
 <!-- Replace with real screenshots once available -->
 ![todo1](https://github.com/user-attachments/assets/d575e58e-04b6-40bf-aa94-fe63098339f7)
+![todo2](https://github.com/user-attachments/assets/47cf8a20-013a-45ac-bd26-ee63a392c8c8)
+![todo3](https://github.com/user-attachments/assets/57593da9-f08d-4d59-bba6-adeb96fc8736)
+![todo4](https://github.com/user-attachments/assets/a2fe48c7-de5f-42f4-bc1f-f8bf8718d036)
 
 
 ---
