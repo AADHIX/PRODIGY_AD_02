@@ -1,6 +1,6 @@
 # 📱 TodoMaster - Flutter Todo App with Hive & State Management
 
-![App Banner](<img width="2895" height="2306" alt="back" src="https://github.com/user-attachments/assets/fe779972-7b0f-4ab9-b17f-eae7566e4be6" />) 
+(<img width="2895" height="2306" alt="back" src="https://github.com/user-attachments/assets/fe779972-7b0f-4ab9-b17f-eae7566e4be6" />) 
 
 
 ## 🌟 Overview
