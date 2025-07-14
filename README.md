@@ -1,16 +1,27 @@
-# todo
+Flutter todo app with modern UI and Hive local storage.
 
-A new Flutter project.
 
-## Getting Started
+Files Created:
 
-This project is a starting point for a Flutter application.
+pubspec.yaml - All dependencies including Provider
+lib/models/todo_model.dart - Data model for todos
+lib/services/todo_service.dart - Hive database operations
+lib/providers/todo_provider.dart - State management with Provider
+lib/widgets/todo_widgets.dart - Reusable UI components
+lib/screens/add_todo_screen.dart - Add/edit todo screen
+lib/screens/home_screen.dart - Main home screen
+lib/main.dart - App entry point
 
-A few resources to get you started if this is your first Flutter project:
+Key Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Modern, responsive UI with Material Design 3
+✅ Local storage using Hive database
+✅ Add, edit, delete, and toggle todos
+✅ Priority system (Low, Medium, High)
+✅ Optional due dates with overdue indicators
+✅ Search and filter functionality
+✅ Statistics dashboard
+✅ Sorting options
+✅ Persistent data storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
