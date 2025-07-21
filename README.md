@@ -43,18 +43,18 @@ Built as part of the Prodigy Infotech internship curriculum, this application sh
 **Get started:**
 
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/AADHIX/PRODIGY_AD_02.git
+   
+  ###  git clone https://github.com/AADHIX/PRODIGY_AD_02.git
    cd PRODIGY_AD_02
 Install dependencies:
 
-bash
+
 Copy
 Edit
 flutter pub get
 Run the app:
 
-bash
+
 Copy
 Edit
 flutter run
